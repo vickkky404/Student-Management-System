@@ -38,3 +38,16 @@ This project demonstrates practical implementation of **JSP**, **Servlets**, **J
 ---
 
 ## 📂 Project Structure  
+StudentManagementSystem/
+│── src/
+│ ├── com.sms.controller/ # Servlets
+│ ├── com.sms.dao/ # Database Access Layer
+│ ├── com.sms.model/ # Java Models (Beans)
+│── WebContent/
+│ ├── views/ # JSP Pages
+│ ├── assets/ # CSS, JS, Images
+│ ├── META-INF/
+│ └── WEB-INF/ # web.xml
+│── database/
+│ └── sms.sql # MySQL Schema & Tables
+│── README.md
