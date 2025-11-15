@@ -38,6 +38,7 @@ This project demonstrates practical implementation of **JSP**, **Servlets**, **J
 ---
 
 ## 📂 Project Structure  
+
 StudentManagementSystem/
 │── src/
 │ ├── com.sms.controller/ # Servlets
